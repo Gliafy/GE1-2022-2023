@@ -345,5 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc29f11ed7fd0414fb6918456fb9fe6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loops: 10
-  prefab: {fileID: 0}
+  loops: 20
+  prefab: {fileID: 2887760226524986497, guid: e8b773b6ffe97c9488fe0745daacfe98, type: 3}
+  numberofObejcts: 100
+  radius: 20
